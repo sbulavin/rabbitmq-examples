@@ -5,7 +5,7 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 
 
-public class Send {
+public class HelloWorldSend {
 
     private final static String QUEUE_NAME = "hello";
 
