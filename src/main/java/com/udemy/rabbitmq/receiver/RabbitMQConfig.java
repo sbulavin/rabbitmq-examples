@@ -1,4 +1,4 @@
-package com.udemy.rabbitmq.sender;
+package com.udemy.rabbitmq.receiver;
 
 
 import com.udemy.rabbitmq.receiver.RabbitMQMessageListener;
